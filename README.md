@@ -1,7 +1,5 @@
 # FinalProject
 
-
-
 SQL Queries
 
 "SELECT * FROM userinfo;"
